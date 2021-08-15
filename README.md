@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-### I'm Jakob. An ambitious self-taught Web Developer and High School Student from Sweden! 🙌
+### I'm Jakob. An ambitious self-taught Web Developer and Student from Sweden! 🙌
 
 - 🌱 I'm currently learning Javascript
 - 🖥️ 1 month of coding experience
