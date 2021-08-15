@@ -2,8 +2,8 @@
 
 ## I'm Jakob. An ambitious self-taught Web Developer and Student from Sweden! 🙌
 
-- 🌱 I'm currently learning Javascript
-- 🖥️ 1 month of coding experience
+- 🌱 I'm currently learning React
+- 🖥️ 2 months of coding experience
 - 💪 I go to the gym, like a lot...
 
 ## Languages and Tools I use
